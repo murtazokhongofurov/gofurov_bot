@@ -1,1 +1,0 @@
-# gofurov_bot
